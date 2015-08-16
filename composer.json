@@ -1,17 +1,14 @@
 {
-    "name": "league/:package_name",
-    "description": ":package_description",
+    "name": "achristodoulou/php-package",
+    "description": "This php package can be used for testing packagist or satis.",
     "keywords": [
-        "league",
-        ":package_name"
+        "league"
     ],
-    "homepage": "https://github.com/thephpleague/:package_name",
+    "homepage": "https://github.com/achristodoulou/php-package",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Andreas Christodoulou",
             "role": "Developer"
         }
     ],
